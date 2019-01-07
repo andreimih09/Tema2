@@ -1,0 +1,65 @@
+
+ (HEADER)   Template 10 -Traditionalist
+
+
+      (Menu TOP)Home_ O Nas_ Produkty_ Servis_ Kontakt_
+
+(Content)
+Vitejre v Traditionalist!
+
+Tak tento template se mi libi ze vsechn nejvice:)
+
+Text v EN:
+
+ORDINARIE ie a free template from <b>FREE CSS TEMPLATES<b/> released under a Creative <br />
+Commons Attibution 2.5License.You're free to use it for both commercial or personal <br />
+use.I only ask that you link back toin some way.Enjoy :) <br />
+<br />
+
+Suspendisse potenti.Donec nulla est, laoreet quis,pellentesque in,conque in,dui.Nunc <br />
+rhoncus placerat augue.DOnec justo odio,eleifend varius ,volutpat venenatis,saquittis ut,<br />
+orci.Donec nulla est ,laoreet quis,pellentesque in,congue in, dui.Nunc rhoncus placerat <br />
+augue.DOnec justo odio,eleifend varius,volutpat venenatismsagittis ut, orci.Nullam et <br />
+orci in erat viverra onare.Nunc pellenesque. <br />
+<br />
+
+Sed vestibulum blandit nisl.Quisque elentium vonvallis purus.Quiesque pellentwsque <br />
+semper massa:<br />
+<br />
+.Suspendisse quis gravida massa felis. <br />
+.Vivamus sagittis bibendum erat. <br />
+.Nullam et orci in erat viverra onare. <br />
+ 
+
+
+(Right Column)
+
+www.ipgamez.com
+
+Novinky <br />
+<br />
+Navy design
+<br />
+Je tu novy template s <br />
+cislem 10 . <a href="#">vice</a>
+<br />
+Fusce dolor trisitque
+<br />
+Sed eu eros imperdiet <br />
+eros interdum blandit.<br />
+Vivamus sagitis bibendum<br />
+erat.Cuirabitur malesuada.<br />
+<a href="#">More</a><br />
+
+Nunc pellentesque <br />
+Sed vestibulum blandit<br />
+nisl.Quisque elementum<br />
+convallis purus<br />
+Suspendisse potenti.<br />
+Donec nulla est, laoreet<br />
+quis,pellentesque in.<br />
+<a href="#">More</a><br />
+
+Ipsum DOlorem<br />
+
+SAgitis Bibendum Erat
